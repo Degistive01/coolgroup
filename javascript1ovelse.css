@@ -6,3 +6,11 @@ body {
 #happy {
     color: darkblue;
 }
+
+.billede {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
